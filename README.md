@@ -1,1 +1,2 @@
-# car-racing-firebase
+# synchronousBallMovement
+Ball moving synchronously
